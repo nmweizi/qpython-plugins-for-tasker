@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 104,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 104,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    }
+]

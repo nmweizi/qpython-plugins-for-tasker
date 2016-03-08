@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\androidTest\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 62,
+                        "endOffset": 776
+                    }
+                }
+            }
+        ]
+    }
+]

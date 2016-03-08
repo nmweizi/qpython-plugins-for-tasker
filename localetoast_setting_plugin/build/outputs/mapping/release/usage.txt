@@ -1,0 +1,122 @@
+com.twofortyfouram.locale.BreadCrumber:
+    87:88:private BreadCrumber()
+com.twofortyfouram.locale.Constants
+com.twofortyfouram.locale.Intent
+com.twofortyfouram.locale.PackageUtilities:
+    29:29:public PackageUtilities()
+com.twofortyfouram.locale.api.BuildConfig
+com.twofortyfouram.locale.api.R:
+    9:9:public R()
+com.twofortyfouram.locale.api.R$drawable
+com.twofortyfouram.locale.api.R$id
+com.twofortyfouram.locale.api.R$integer
+com.twofortyfouram.locale.api.R$menu
+com.twofortyfouram.locale.api.R$string:
+    26:26:public R$string()
+com.twofortyfouram.locale.api.R$style
+com.yourcompany.yoursetting.BuildConfig
+com.yourcompany.yoursetting.Constants:
+    public static final java.lang.String LOG_TAG
+    public static final boolean IS_LOGGABLE
+    public static final boolean IS_PARAMETER_CHECKING_ENABLED
+    public static final boolean IS_CORRECT_THREAD_CHECKING_ENABLED
+    83:84:private Constants()
+com.yourcompany.yoursetting.PluginApplication:
+    61:62:private static void enableApiLevel9Debugging()
+    67:69:private static void enableApiLevel11Debugging()
+com.yourcompany.yoursetting.R
+com.yourcompany.yoursetting.R$attr
+com.yourcompany.yoursetting.R$dimen
+com.yourcompany.yoursetting.R$drawable
+com.yourcompany.yoursetting.R$id
+com.yourcompany.yoursetting.R$integer
+com.yourcompany.yoursetting.R$layout
+com.yourcompany.yoursetting.R$menu
+com.yourcompany.yoursetting.R$string
+com.yourcompany.yoursetting.R$style
+com.yourcompany.yoursetting.TaskerPlugin:
+    private static final java.lang.String TAG
+    private static final java.lang.String BASE_KEY
+    private static final java.lang.String EXTRAS_PREFIX
+    private static final int FIRST_ON_FIRE_VARIABLES_TASKER_VERSION
+    public static final java.lang.String VARIABLE_PREFIX
+    private static final int RANDOM_HISTORY_SIZE
+    public static final java.lang.String ACTION_EDIT_EVENT
+    private static final java.lang.String VARIABLE_NAME_START_EXPRESSION
+    private static final java.lang.String VARIABLE_NAME_MID_EXPRESSION
+    private static final java.lang.String VARIABLE_NAME_END_EXPRESSION
+    public static final java.lang.String VARIABLE_NAME_MAIN_PART_MATCH_EXPRESSION
+    public static final java.lang.String VARIABLE_NAME_MATCH_EXPRESSION
+    private static final java.lang.String EXTRA_VARIABLES_BUNDLE
+    private static final java.lang.String EXTRA_HOST_CAPABILITIES
+    public static final int EXTRA_HOST_CAPABILITY_SETTING_RETURN_VARIABLES
+    public static final int EXTRA_HOST_CAPABILITY_CONDITION_RETURN_VARIABLES
+    public static final int EXTRA_HOST_CAPABILITY_SETTING_FIRE_VARIABLE_REPLACEMENT
+    private static final int EXTRA_HOST_CAPABILITY_RELEVANT_VARIABLES
+    public static final int EXTRA_HOST_CAPABILITY_SETTING_SYNCHRONOUS_EXECUTION
+    public static final int EXTRA_HOST_CAPABILITY_REQUEST_QUERY_DATA_PASS_THROUGH
+    public static final int EXTRA_HOST_CAPABILITY_ALL
+    private static final java.lang.String EXTRA_HINTS_BUNDLE
+    private static final java.lang.String BUNDLE_KEY_HINT_PREFIX
+    private static final java.lang.String BUNDLE_KEY_HINT_TIMEOUT_MS
+    private static final java.lang.String BUNDLE_KEY_RELEVANT_VARIABLES
+    52:52:public TaskerPlugin()
+    155:155:public static boolean hostSupportsRelevantVariables(android.os.Bundle)
+    167:168:public static void addRelevantVariableList(android.content.Intent,java.lang.String[])
+    179:198:public static boolean variableNameValid(java.lang.String)
+    211:216:public static java.lang.String[] getRelevantVariableList(android.os.Bundle)
+    234:235:public static void addVariableBundle(android.os.Bundle,android.os.Bundle)
+    831:834:private static boolean hostSupports(android.os.Bundle,int)
+    840:853:public static int getPackageVersionCode(android.content.pm.PackageManager,java.lang.String)
+    858:873:private static boolean variableNameIsLocal(java.lang.String)
+    890:917:public static int getPositiveNonRepeatingRandomInteger()
+    52:52:static synthetic boolean access$000(android.os.Bundle,int)
+    52:52:static synthetic java.lang.Object access$200(android.os.Bundle,java.lang.String,java.lang.Class,java.lang.String)
+com.yourcompany.yoursetting.TaskerPlugin$Condition
+com.yourcompany.yoursetting.TaskerPlugin$Event
+com.yourcompany.yoursetting.TaskerPlugin$Host
+com.yourcompany.yoursetting.TaskerPlugin$Setting:
+    public static final java.lang.String VARNAME_ERROR_MESSAGE
+    private static final java.lang.String BUNDLE_KEY_VARIABLE_REPLACE_STRINGS
+    private static final java.lang.String EXTRA_REQUESTED_TIMEOUT
+    public static final int REQUESTED_TIMEOUT_MS_NONE
+    public static final int REQUESTED_TIMEOUT_MS_MAX
+    public static final int REQUESTED_TIMEOUT_MS_NEVER
+    private static final java.lang.String EXTRA_PLUGIN_COMPLETION_INTENT
+    public static final java.lang.String EXTRA_RESULT_CODE
+    public static final int RESULT_CODE_OK
+    public static final int RESULT_CODE_OK_MINOR_FAILURES
+    public static final int RESULT_CODE_FAILED
+    public static final int RESULT_CODE_PENDING
+    public static final int RESULT_CODE_UNKNOWN
+    public static final int RESULT_CODE_FAILED_PLUGIN_FIRST
+    239:239:public TaskerPlugin$Setting()
+    326:326:public static boolean hostSupportsOnFireVariableReplacement(android.os.Bundle)
+    343:355:public static boolean hostSupportsOnFireVariableReplacement(android.app.Activity)
+    359:359:public static boolean hostSupportsSynchronousExecution(android.os.Bundle)
+    377:389:public static void requestTimeoutMS(android.content.Intent,int)
+    402:421:public static void setVariableReplaceKeys(android.os.Bundle,java.lang.String[])
+    432:432:public static boolean hostSupportsVariableReturn(android.os.Bundle)
+    500:512:public static int getHintTimeoutMS(android.os.Bundle)
+com.yourcompany.yoursetting.bundle.BundleScrubber:
+    22:22:public BundleScrubber()
+com.yourcompany.yoursetting.bundle.PluginBundleManager:
+    public static final java.lang.String BUNDLE_EXTRA_STRING_MESSAGE
+    public static final java.lang.String BUNDLE_EXTRA_INT_VERSION_CODE
+    143:144:private PluginBundleManager()
+com.yourcompany.yoursetting.receiver.CallQpythonActivity:
+    50:61:public static boolean checkAppInstalledByName(android.content.Context,java.lang.String)
+com.yourcompany.yoursetting.receiver.FireReceiver:
+    240:240:protected boolean isAsync()
+com.yourcompany.yoursetting.receiver.MyIntentService:
+    private static final java.lang.String ACTION_FOO
+    private static final java.lang.String ACTION_BAZ
+    private static final java.lang.String EXTRA_PARAM1
+    private static final java.lang.String EXTRA_PARAM2
+    private static final int NOTIFICATION_ID
+    142:151:private void acquireWakeLock()
+    156:161:private void releaseWakeLock()
+com.yourcompany.yoursetting.ui.InfoActivity:
+    private static final java.lang.String APP_STORE_URI
+com.yourcompany.yoursetting.util:
+    11:11:public util()

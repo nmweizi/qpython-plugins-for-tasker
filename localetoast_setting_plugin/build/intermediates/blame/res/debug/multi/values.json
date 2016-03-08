@@ -1,0 +1,249 @@
+[
+    {
+        "outputFile": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 57,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 55,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 64,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 60,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 60,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 46,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 46,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 63,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 62,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 62,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 45,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 109,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 113,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 70,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 64,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 64,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 43,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 43,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endColumn": 60,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 92,
+                    "endOffset": 1302
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1307,
+                    "endColumn": 67,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]

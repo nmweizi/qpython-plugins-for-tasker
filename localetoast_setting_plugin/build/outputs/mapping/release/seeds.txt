@@ -1,0 +1,63 @@
+com.twofortyfouram.locale.api.R$drawable: int twofortyfouram_locale_ic_menu_dontsave
+com.twofortyfouram.locale.api.R$drawable: int twofortyfouram_locale_ic_menu_help
+com.twofortyfouram.locale.api.R$drawable: int twofortyfouram_locale_ic_menu_save
+com.twofortyfouram.locale.api.R$id: int twofortyfouram_locale_menu_dontsave
+com.twofortyfouram.locale.api.R$id: int twofortyfouram_locale_menu_help
+com.twofortyfouram.locale.api.R$id: int twofortyfouram_locale_menu_save
+com.twofortyfouram.locale.api.R$integer: int twofortyfouram_locale_maximum_blurb_length
+com.twofortyfouram.locale.api.R$menu: int twofortyfouram_locale_help_save_dontsave
+com.twofortyfouram.locale.api.R$string: int twofortyfouram_locale_breadcrumb_format
+com.twofortyfouram.locale.api.R$string: int twofortyfouram_locale_breadcrumb_separator
+com.twofortyfouram.locale.api.R$string: int twofortyfouram_locale_menu_dontsave
+com.twofortyfouram.locale.api.R$string: int twofortyfouram_locale_menu_help
+com.twofortyfouram.locale.api.R$string: int twofortyfouram_locale_menu_save
+com.twofortyfouram.locale.api.R$style: int MotorolaListViewHackStyle
+com.twofortyfouram.locale.api.R$style: int Theme_Locale_Dark
+com.twofortyfouram.locale.api.R$style: int Theme_Locale_Dialog
+com.twofortyfouram.locale.api.R$style: int Theme_Locale_Light
+com.yourcompany.yoursetting.PluginApplication
+com.yourcompany.yoursetting.PluginApplication: PluginApplication()
+com.yourcompany.yoursetting.R$dimen: int activity_horizontal_margin
+com.yourcompany.yoursetting.R$dimen: int activity_vertical_margin
+com.yourcompany.yoursetting.R$drawable: int ic_launcher
+com.yourcompany.yoursetting.R$drawable: int ic_locale_plugin
+com.yourcompany.yoursetting.R$drawable: int twofortyfouram_locale_ic_menu_dontsave
+com.yourcompany.yoursetting.R$drawable: int twofortyfouram_locale_ic_menu_help
+com.yourcompany.yoursetting.R$drawable: int twofortyfouram_locale_ic_menu_save
+com.yourcompany.yoursetting.R$id: int SelectFile
+com.yourcompany.yoursetting.R$id: int text1
+com.yourcompany.yoursetting.R$id: int twofortyfouram_locale_menu_dontsave
+com.yourcompany.yoursetting.R$id: int twofortyfouram_locale_menu_help
+com.yourcompany.yoursetting.R$id: int twofortyfouram_locale_menu_save
+com.yourcompany.yoursetting.R$integer: int twofortyfouram_locale_maximum_blurb_length
+com.yourcompany.yoursetting.R$integer: int versionCode
+com.yourcompany.yoursetting.R$layout: int activity_run
+com.yourcompany.yoursetting.R$layout: int main
+com.yourcompany.yoursetting.R$menu: int twofortyfouram_locale_help_save_dontsave
+com.yourcompany.yoursetting.R$string: int app_name
+com.yourcompany.yoursetting.R$string: int message_hint
+com.yourcompany.yoursetting.R$string: int plugin_name
+com.yourcompany.yoursetting.R$string: int selectfile
+com.yourcompany.yoursetting.R$string: int twofortyfouram_locale_breadcrumb_format
+com.yourcompany.yoursetting.R$string: int twofortyfouram_locale_breadcrumb_separator
+com.yourcompany.yoursetting.R$string: int twofortyfouram_locale_menu_dontsave
+com.yourcompany.yoursetting.R$string: int twofortyfouram_locale_menu_help
+com.yourcompany.yoursetting.R$string: int twofortyfouram_locale_menu_save
+com.yourcompany.yoursetting.R$string: int versionName
+com.yourcompany.yoursetting.R$style: int MotorolaListViewHackStyle
+com.yourcompany.yoursetting.R$style: int Theme_Locale_Dark
+com.yourcompany.yoursetting.R$style: int Theme_Locale_Dialog
+com.yourcompany.yoursetting.R$style: int Theme_Locale_Light
+com.yourcompany.yoursetting.receiver.CallQpythonActivity
+com.yourcompany.yoursetting.receiver.CallQpythonActivity: CallQpythonActivity()
+com.yourcompany.yoursetting.receiver.FireReceiver
+com.yourcompany.yoursetting.receiver.FireReceiver: FireReceiver()
+com.yourcompany.yoursetting.receiver.MyIntentService
+com.yourcompany.yoursetting.receiver.MyIntentService: MyIntentService()
+com.yourcompany.yoursetting.receiver.MyReceiver
+com.yourcompany.yoursetting.receiver.MyReceiver: MyReceiver()
+com.yourcompany.yoursetting.ui.AbstractPluginActivity: AbstractPluginActivity()
+com.yourcompany.yoursetting.ui.EditActivity
+com.yourcompany.yoursetting.ui.EditActivity: EditActivity()
+com.yourcompany.yoursetting.ui.InfoActivity
+com.yourcompany.yoursetting.ui.InfoActivity: InfoActivity()

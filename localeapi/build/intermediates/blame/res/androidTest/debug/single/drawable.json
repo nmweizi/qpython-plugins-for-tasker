@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\localeapi\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\twofortyfouram_locale_ic_menu_dontsave.xml",
+        "source": "D:\\android\\locale-toast_setting_plugin\\localeapi\\build\\intermediates\\bundles\\debug\\res\\drawable\\twofortyfouram_locale_ic_menu_dontsave.xml"
+    },
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\localeapi\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\twofortyfouram_locale_ic_menu_save.xml",
+        "source": "D:\\android\\locale-toast_setting_plugin\\localeapi\\build\\intermediates\\bundles\\debug\\res\\drawable\\twofortyfouram_locale_ic_menu_save.xml"
+    },
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\localeapi\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\twofortyfouram_locale_ic_menu_help.xml",
+        "source": "D:\\android\\locale-toast_setting_plugin\\localeapi\\build\\intermediates\\bundles\\debug\\res\\drawable\\twofortyfouram_locale_ic_menu_help.xml"
+    }
+]

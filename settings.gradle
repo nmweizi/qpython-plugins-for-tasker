@@ -1,0 +1,2 @@
+include ':localeapi', ':qpython'
+include ':localetoast_setting_plugin'

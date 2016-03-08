@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\AndroidApp-with-qpython-API\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\activity_main.xml",
+        "source": "D:\\android\\AndroidApp-with-qpython-API\\app\\build\\intermediates\\bundles\\debug\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\qpython\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\activity_main.xml",
+        "source": "D:\\android\\locale-toast_setting_plugin\\qpython\\build\\intermediates\\bundles\\debug\\res\\menu\\activity_main.xml"
+    }
+]

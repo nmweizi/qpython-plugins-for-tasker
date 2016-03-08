@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:52
+-keep class com.yourcompany.yoursetting.PluginApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.yourcompany.yoursetting.receiver.CallQpythonActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.yourcompany.yoursetting.receiver.FireReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:130
+-keep class com.yourcompany.yoursetting.receiver.MyIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.yourcompany.yoursetting.receiver.MyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.yourcompany.yoursetting.ui.EditActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.yourcompany.yoursetting.ui.InfoActivity { <init>(...); }
+

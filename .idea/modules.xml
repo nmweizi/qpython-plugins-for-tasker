@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/locale-toast_setting_plugin.iml" filepath="$PROJECT_DIR$/locale-toast_setting_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localeapi/localeapi.iml" filepath="$PROJECT_DIR$/localeapi/localeapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localetoast_setting_plugin/localetoast_setting_plugin.iml" filepath="$PROJECT_DIR$/localetoast_setting_plugin/localetoast_setting_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qpython/qpython.iml" filepath="$PROJECT_DIR$/qpython/qpython.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+    defaultConfig {
+        applicationId "com.yourcompany.yoursetting"
+        minSdkVersion 19
+        targetSdkVersion 21
+
+        testApplicationId "com.yourcompany.yoursetting.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile project(':localeapi')
+}

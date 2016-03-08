@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\AndroidApp-with-qpython-API\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\AndroidApp-with-qpython-API\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\qpython\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\locale-toast_setting_plugin\\qpython\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    }
+]

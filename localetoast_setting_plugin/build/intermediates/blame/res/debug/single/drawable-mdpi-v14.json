@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png",
+        "source": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png"
+    },
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_save.png",
+        "source": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_help.png",
+        "source": "D:\\android\\locale-toast_setting_plugin\\localetoast_setting_plugin\\build\\intermediates\\exploded-aar\\locale-toast_setting_plugin\\localeapi\\unspecified\\res\\drawable-mdpi-v14\\twofortyfouram_locale_ic_menu_help.png"
+    }
+]
