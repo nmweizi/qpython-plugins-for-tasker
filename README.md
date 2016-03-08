@@ -8,4 +8,4 @@
 
 # License
 
-This software is provided under under a MIT License. See the accompanying LICENSE file for more information.
+This software is provided under under a MIT License. See the accompanying [LICENSE](https://github.com/stamparm/maltrail/blob/master/LICENSE) file for more information.
